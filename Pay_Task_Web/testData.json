@@ -1,0 +1,18 @@
+{
+  "registration": {
+    "firstName": "ziad",
+    "lastName": "mamdouh",
+    "email": "testemailziad.mamdouh@gmail.com",
+    "password": "Ziad2199@@",
+    "dob": "12-12-1999",
+    "address": "123 Main St, cairo",
+    "postcode": "12345",
+    "city": "cairo",
+    "state": "cairo",
+    "country": "egypt",
+    "phone": "1234567890"
+  }
+
+
+
+}
